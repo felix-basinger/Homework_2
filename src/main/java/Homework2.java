@@ -44,12 +44,5 @@ public class Homework2 {
             String new_s = String.format("Студент %s получил %s по предмету %s.", stud[i + 1], stud[i + 3], stud[i + 5]);
             System.out.println(new_s);
         }
-
-
-
-
-
-
-
     }
 }
